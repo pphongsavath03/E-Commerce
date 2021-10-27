@@ -18,9 +18,9 @@ This is a back-end application for e-commerce site.
 
 
 # Installation: 
-Clone github repo and perform NPM install for all dependencies.  Open the applcation in the terminal and run "node serer.js".
+Clone github repo and perform "npm install" for all dependencies.  Open the applcation in the terminal and run "node server.js".
 
-installation walkthrough: https://watch.screencastify.com/v/sxEqDhy9R28LFw3phoip
+Mysql walkthrough: https://watch.screencastify.com/v/sxEqDhy9R28LFw3phoip
 
 
 ![screen4](https://user-images.githubusercontent.com/87045456/139004210-14596a99-a3ff-4537-a880-d270de4ceb3d.png)
