@@ -1,7 +1,8 @@
 # E-Commerce
 
 Github Repo: https://github.com/pphongsavath03/E-Commerce
-walkthrough: https://watch.screencastify.com/v/qseBRop3NGrsjNrXCjCN
+
+Walkthrough: https://watch.screencastify.com/v/qseBRop3NGrsjNrXCjCN
 
 ![screen1](https://user-images.githubusercontent.com/87045456/139003921-959c0745-4312-4f75-8568-06c8bca5fe86.png)
 
@@ -9,7 +10,6 @@ walkthrough: https://watch.screencastify.com/v/qseBRop3NGrsjNrXCjCN
 ![screen2](https://user-images.githubusercontent.com/87045456/139003926-ee80339c-919e-4337-afa0-95afaa08769d.png)
 
 
-![screen3](https://user-images.githubusercontent.com/87045456/139003936-0082ad76-d579-4a25-9674-eda21d5a7f12.png)
 
 
 # Description:
@@ -22,6 +22,8 @@ Clone github repo and perform NPM install for all dependencies.  Open the applca
 
 installation walkthrough: https://watch.screencastify.com/v/sxEqDhy9R28LFw3phoip
 
+
+![screen4](https://user-images.githubusercontent.com/87045456/139004210-14596a99-a3ff-4537-a880-d270de4ceb3d.png)
 
 
 # Usage:
